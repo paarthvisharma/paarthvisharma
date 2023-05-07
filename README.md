@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Java Spring, Flutter**
 
+- 👨‍💻 I am a certified [Oracle Cloud Infrastructure Associate](Oracle Cloud Infrastructure Associate)
+
+- 💬 Ask me about **Python,Linux,Cloud,Machine Learning**
+
 - 📫 How to reach me **sharma.paa@northeastern.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link](https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link)
