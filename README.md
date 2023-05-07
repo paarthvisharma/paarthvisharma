@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring, Flutter**
 
-- 👨‍💻 I am a certified [Oracle Cloud Infrastructure Associate](Oracle Cloud Infrastructure Associate)
+- 👨‍💻 I am a certified (Oracle Cloud Infrastructure Associate)
 
 - 💬 Ask me about **Python,Linux,Cloud,Machine Learning**
 
