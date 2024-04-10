@@ -40,19 +40,23 @@
 * Skills: Bash Scripting, Containers (Docker and Singularity) Python, High Performance Cluster, Cuda, Linux.
 
 ### **Software Engineer Intern at Qualitest** 👩‍💻 (May 2023 - December 2023)
-* Skills:- Python, Azure AI, LLMs, Fine Tuning.
+* Lead the development of an AI powered chatbot leveraging OpenAI models. The chatbot allows users to upload complex documents and query information from them, reducing manual searches by 70% and making documents interactive. Integrated this with Azure’s Cognitive Search service for cost effectiveness by optimizing the token count.
+* Developed the integration of backend application with the company’s SharePoint, significantly diminishing manual upload overhead and boosting efficiency of the users by over 20%.
+* Automated data indexing and processing pipeline for chatbot, which resulted in an 80% reduction in process time. Elevated user experience by adding features to the React and Typescript-based UI.
+* Revamped the code for Jira user story classification based on ambiguity, by leveraging NLP techniques to extract and categories content based on the quality of user stories increasing the classification accuracy.
+* Skills: Python, Azure AI, LLMs, Fine Tuning.
 
 ### **Graduate Research Assistant at Research Computing Department, Northeastern University** 👩‍💻 (January 2023 - April 2023)
 * Developed modules, containers, and software environments on the cluster to support various research laboratories.
 * Conducted a hands-on workshop for over 100 students, providing instruction on operating the High-Performance Cluster.
-* Skills:- Bash Scripting, Python, High Performance Cluster, Linux.
+* Skills: Bash Scripting, Python, High Performance Cluster, Linux.
 
-### **Software Analyst at Oracle** 👩‍💻 (January 2023 - April 2023)
-* Developed an Oracle APEX-based ticket tracking system with integrated real-time dashboards and automated PL/SQL procedures, incorporating role-based access control (RBAC) to secure and streamline operational workflow.
-* Enhanced system efficiency with advanced PL/SQL optimizations, reducing ticket management workload by 90% and ensuring responsive access control tailored to user roles and permissions.
-* Collaborated with Oracle Linux team to efficiently resolve over 1000 complex issues related to networking,
-performance, and security on Linux servers and containers, demonstrating expertise in problem-solving abilities.
-* Skills: Python, Linux, SQL, PL/SQL, Oracle Apex, Oracle Cloud Infrastructure. 
+### **Software Analyst at Oracle** 👩‍💻 (September 2020 - July 2022)
+* Developed an Oracle APEX-based ticket tracking system featuring integrated real-time dashboards and automated PL/SQL procedures, incorporating Role-Based Access Control (RBAC) to secure and streamline the operational workflow.
+* Enhanced system efficiency through advanced PL/SQL optimizations, reducing the ticket management workload by 90% and ensuring responsive access control tailored to user roles and permissions.
+* Collaborated with the Oracle Linux team to efficiently resolve over 1,000 complex issues related to networking, performance, and security on Linux servers and containers, demonstrating exceptional problem-solving abilities.
+* Conducted over 30 technical interviews for screening rounds for campus recruitment as well as other roles.
+* Skills: Python, Linux, SQL, PL/SQL, Oracle APEX, Oracle Cloud Infrastructure.
 
 
 <h3 align="left">Connect with me:</h3>
