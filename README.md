@@ -30,6 +30,30 @@
 
 :school:	**Bachelor of Engineering in Electronics and Communication**: I completed my BE from Dayananada Sagar College of Engineering, Bangalore, India (9.14 GPA). 
 
+<h1 align="center">Work Experience 💻  </h1> 
+
+### **Lead Graduate Research Assistant at Research Computing Department, Northeastern University** 👩‍💻 (January 2024 - April 2024)
+* Assisted students and researchers at Northeastern University by developing containerized classrooms, conducting code reviews, managing software installations, and utilizing Slurm. (https://rc.northeastern.edu/)
+* Led classroom sessions and workshops for over 50 students, focusing on familiarizing them with running Slurm jobs on CPUs/GPUs, utilizing CUDA, and optimizing job memory and runtime.
+* Established classroom containers capable of accommodating more than 30 students, providing access to cluster resources, including tools like JupyterLab and RStudio, to ensure a seamless and efficient workflow for all users.
+* Acting manager for other Research Assistants, provided support to them for conducting day-to-day tasks.
+* Skills: Bash Scripting, Containers (Docker and Singularity) Python, High Performance Cluster, Cuda, Linux.
+
+### **Software Engineer Intern at Qualitest** 👩‍💻 (May 2023 - December 2023)
+* Skills:- Python, Azure AI, LLMs, Fine Tuning.
+
+### **Graduate Research Assistant at Research Computing Department, Northeastern University** 👩‍💻 (January 2023 - April 2023)
+* Developed modules, containers, and software environments on the cluster to support various research laboratories.
+* Conducted a hands-on workshop for over 100 students, providing instruction on operating the High-Performance Cluster.
+* Skills:- Bash Scripting, Python, High Performance Cluster, Linux.
+
+### **Software Analyst at Oracle** 👩‍💻 (January 2023 - April 2023)
+* Developed an Oracle APEX-based ticket tracking system with integrated real-time dashboards and automated PL/SQL procedures, incorporating role-based access control (RBAC) to secure and streamline operational workflow.
+* Enhanced system efficiency with advanced PL/SQL optimizations, reducing ticket management workload by 90% and ensuring responsive access control tailored to user roles and permissions.
+* Collaborated with Oracle Linux team to efficiently resolve over 1000 complex issues related to networking,
+performance, and security on Linux servers and containers, demonstrating expertise in problem-solving abilities.
+* Skills: Python, Linux, SQL, PL/SQL, Oracle Apex, Oracle Cloud Infrastructure. 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
