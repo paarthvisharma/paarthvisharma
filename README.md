@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paarthvi</h1>
 <h3 align="center">A passionate developer currently pursuing MSCS degree at Northeastern University, Boston.</h3>
 
-- 🔭 I’m currently working on **Poll Forge**
+- 🔭 I’m currently working on **NLP Project : Generating News Headlines**
 
-- 🌱 I’m currently learning **Java Spring, Flutter**
+- 🌱 I’m currently learning **MERN Stack** 
 
-- 👨‍💻 I am a certified **Oracle Cloud Infrastructure Associate**
+- 👨‍💻 I am a certified **Oracle Cloud Infrastructure Associate** 
 
 - 💬 Ask me about **Python,Linux,Cloud,Machine Learning**
 
