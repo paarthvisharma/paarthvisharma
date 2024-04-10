@@ -15,7 +15,7 @@
 
 <h1 align="center">My Education </h1>
 
-:school:	**Master's in Computer Science**:- Pursuing my MS in Computer Sience from Northeastern University, Boston, MA. My courses are focused towards Software Engineering and AI. (4 GPA)
+:school:	**Master's in Computer Science**:- Pursuing MS in Computer Sience from Northeastern University, Boston, MA. My courses are focused towards Software Engineering and AI. (4 GPA)
 * Software:
    * CS 5010: Programming Design Paradigm
    * CS 5800: Algorithms
