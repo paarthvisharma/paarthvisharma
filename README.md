@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link](https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link)
 
-  # **My Education** :mortar_board:
+<h1 align="center">My Education</h1>
 
 :school:	**Master's in Computer Science**:- Pursuing my MS in Computer Sience from Northeastern University, Boston, MA. My courses are focused towards Software Engineering and AI. 
 * Courses:
