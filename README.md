@@ -13,6 +13,25 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link](https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link)
 
+  # **My Education** :mortar_board:
+
+:school:	**Master's in Computer Science**:- Pursuing my MS in Computer Sience from Northeastern University, Boston, MA. My courses are focused towards Software Engineering and AI. 
+* Courses:
+* Software:
+   * CS 5010: Programming Design Paradigm
+   * CS 5800: Algorithms
+   * CS 5700: Fundamentals of Cloud Computing
+   * CS 5500: Software Engineering
+* DS and AI Breadth Area:
+   * DS 5110: Introduction to Data Management and Processing
+   * CS 5200: Database Management Systems
+   * CS 6140: Machine Learning
+   * CS 6120: Natural Language Processing
+
+
+:school:	**Bachelor of Engineering in Electronics and Communication**: I completed my BE from Dayananada Sagar College of Engineering, Bangalore, India (9.14 GPA). 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paarthvisharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paarthvisharma" height="30" width="40" /></a>
