@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sharma.paa@northeastern.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link](https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RYfmhVVjiw2XClZtTqyB-nr_5Wf_jKN1/view?usp=share_link](https://drive.google.com/file/d/1VWwKyaUlMqgxBXf1ha0AhPIV1cvmfszE/view?usp=drivesdk)
 
 <h1 align="center">My Education </h1>
 
